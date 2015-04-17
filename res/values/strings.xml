@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SudukoUsingCamApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_solve">Solve Puzzle</string>
+    <string name="title_activity_print">PrintActivity</string>
+
+</resources>
